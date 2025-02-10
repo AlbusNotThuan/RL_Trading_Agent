@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+stable-baselines3
+ipykernel
+keras
+wheel
+setuptools
+tensorboardX
